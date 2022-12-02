@@ -1,0 +1,1626 @@
+/*
+	@name desktop___1
+*/
+/* Only edit this if you know what you are doing! */
+body { margin: 0px; padding: 0px; font-family:"Arial"; overflow-x:hidden; }
+
+/* Only edit this if you know what you are doing! */
+img { position: absolute; display: block; margin: 0px; border: none; padding: 0px; }
+
+/* Only edit this if you know what you are doing! */
+div { position: absolute; }
+
+#content-container { display: block; position: relative; width: 1440px; width: 1440px; height: 1057px; overflow: hidden; display: block;  margin-left: auto; margin-right: auto;  }
+
+
+#page_desktop___1_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 1057px;
+}
+
+#_bg__desktop___1_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 1057px;
+	background:rgba(255,255,255,1);
+}
+
+
+#rectangle_2 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 168px;
+	-ms-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	-o-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	-webkit-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	-moz-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	background:rgba(255,255,255,1);
+}
+
+
+#filoshop {
+	top: 70px;
+	left: 47px;
+	width: 250px;
+	height: 77px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 40px;
+	font-style: italic;
+	text-align: left;
+	color:#03AC0E;
+}
+
+
+#rectangle_1 {
+	top: 69px;
+	left: 363px;
+	width: 586px;
+	height: 52px;
+	-ms-border-radius: 30px;
+	-o-border-radius: 30px;
+	-moz-border-radius: 30px;
+	-webkit-border-radius: 30px;
+	border-radius: 30px;
+	border: 1px solid #000000;
+	background:rgba(255,255,255,1);
+}
+
+
+#rectangle_3 {
+	top: 68px;
+	left: 865px;
+	width: 82px;
+	height: 50px;
+	-ms-border-radius: 30px;
+	-o-border-radius: 30px;
+	-moz-border-radius: 30px;
+	-webkit-border-radius: 30px;
+	border-radius: 30px;
+	background:rgba(217,217,217,1);
+}
+
+
+#screenshot_399_removebg_preview_1 {
+	top: 73px;
+	left: 1045px;
+	width: 37px;
+	height: 41px;
+}
+
+
+#screenshot_400_removebg_preview_1 {
+	top: 74px;
+	left: 1101px;
+	width: 49px;
+	height: 39px;
+}
+
+
+#ellipse_1 {
+	top: 63px;
+	left: 1249px;
+	width: 60px;
+	height: 60px;
+}
+
+
+#gilang_rafli {
+	top: 84px;
+	left: 1317px;
+	width: 104px;
+	height: 30px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 16px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#screenshot_398_removebg_preview_1 {
+	top: 70px;
+	left: 973px;
+	width: 63px;
+	height: 46px;
+}
+
+
+#kategori {
+	top: 85px;
+	left: 289px;
+	width: 82px;
+	height: 30px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 16px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#screenshot_402_removebg_preview_1 {
+	top: 80px;
+	left: 890px;
+	width: 31px;
+	height: 26px;
+}
+
+
+#berdasarkan_percariaanmu__ {
+	top: 194px;
+	left: 74px;
+	width: 241px;
+	height: 30px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 16px;
+	font-weight: bold;
+	font-style: italic;
+	text-align: left;
+	color:#000000;
+}
+
+
+#screenshot_407_removebg_preview_1 {
+	top: 985px;
+	left: 654px;
+	width: 132px;
+	height: 61px;
+}
+
+
+#screenshot_408_removebg_preview_1 {
+	top: 66px;
+	left: 1142px;
+	width: 88px;
+	height: 59px;
+}
+
+
+#search_product {
+	top: 86px;
+	left: 384px;
+	width: 102px;
+	height: 23px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 12px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#rectangle_16 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 51px;
+	background:rgba(3,172,14,1);
+}
+
+
+#lampu_philips {
+	top: 588px;
+	left: 103px;
+	width: 160px;
+	height: 38px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 20px;
+	font-weight: bold;
+	text-align: left;
+	color:#000000;
+}
+
+
+#lampu_philips_ek1 {
+	top: 588px;
+	left: 103px;
+	width: 160px;
+	height: 38px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 20px;
+	font-weight: bold;
+	text-align: left;
+	color:#000000;
+}
+
+
+#kaos_polos {
+	top: 573px;
+	left: 634px;
+	width: 132px;
+	height: 38px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 20px;
+	font-weight: bold;
+	text-align: left;
+	color:#000000;
+}
+
+
+#sepatu_converse {
+	top: 585px;
+	left: 1086px;
+	width: 188px;
+	height: 38px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 20px;
+	font-weight: bold;
+	text-align: left;
+	color:#000000;
+}
+
+
+#kaca_mata_kekinian {
+	top: 916px;
+	left: 1047px;
+	width: 214px;
+	height: 38px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 20px;
+	font-weight: bold;
+	text-align: left;
+	color:#000000;
+}
+
+
+#masker_kf94 {
+	top: 892px;
+	left: 109px;
+	width: 147px;
+	height: 38px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 20px;
+	font-weight: bold;
+	text-align: left;
+	color:#000000;
+}
+
+
+#celana_tartan_pendek {
+	top: 892px;
+	left: 596px;
+	width: 238px;
+	height: 38px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 20px;
+	font-weight: bold;
+	text-align: left;
+	color:#000000;
+}
+
+
+#screenshot_457_1 {
+	top: 665px;
+	left: 39px;
+	width: 291px;
+	height: 207px;
+}
+
+
+#image_11 {
+	top: 252px;
+	left: 530px;
+	width: 315px;
+	height: 301px;
+}
+
+
+#screenshot_458_1 {
+	top: 600px;
+	left: 545px;
+	width: 276px;
+	height: 276px;
+}
+
+
+#_rectangle_25 {
+	top: 272px;
+	left: 58px;
+	width: 272px;
+	height: 289px;
+}
+
+
+#screenshot_459_1 {
+	top: 248px;
+	left: 1010px;
+	width: 279px;
+	height: 281px;
+}
+
+
+#image_12 {
+	top: 629px;
+	left: 1019px;
+	width: 298px;
+	height: 275px;
+}
+
+#page_desktop___2_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 1057px;
+}
+
+#_bg__desktop___2_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 1057px;
+	background:rgba(255,255,255,1);
+}
+
+
+#rectangle_2_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 168px;
+	-ms-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	-o-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	-webkit-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	-moz-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	background:rgba(255,255,255,1);
+}
+
+
+#filoshop_ek1 {
+	top: 70px;
+	left: 47px;
+	width: 250px;
+	height: 77px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 40px;
+	font-style: italic;
+	text-align: left;
+	color:#03AC0E;
+}
+
+
+#rectangle_1_ek1 {
+	top: 69px;
+	left: 363px;
+	width: 586px;
+	height: 52px;
+	-ms-border-radius: 30px;
+	-o-border-radius: 30px;
+	-moz-border-radius: 30px;
+	-webkit-border-radius: 30px;
+	border-radius: 30px;
+	border: 1px solid #000000;
+	background:rgba(255,255,255,1);
+}
+
+
+#search_product_ek1 {
+	top: 86px;
+	left: 384px;
+	width: 102px;
+	height: 23px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 12px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#rectangle_3_ek1 {
+	top: 68px;
+	left: 865px;
+	width: 82px;
+	height: 50px;
+	-ms-border-radius: 30px;
+	-o-border-radius: 30px;
+	-moz-border-radius: 30px;
+	-webkit-border-radius: 30px;
+	border-radius: 30px;
+	background:rgba(217,217,217,1);
+}
+
+
+#screenshot_399_removebg_preview_1_ek1 {
+	top: 73px;
+	left: 1045px;
+	width: 37px;
+	height: 41px;
+}
+
+
+#screenshot_400_removebg_preview_1_ek1 {
+	top: 74px;
+	left: 1101px;
+	width: 49px;
+	height: 39px;
+}
+
+
+#ellipse_1_ek1 {
+	top: 63px;
+	left: 1249px;
+	width: 60px;
+	height: 60px;
+}
+
+
+#gilang_rafli_ek1 {
+	top: 84px;
+	left: 1317px;
+	width: 104px;
+	height: 30px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 16px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#screenshot_398_removebg_preview_1_ek1 {
+	top: 70px;
+	left: 973px;
+	width: 63px;
+	height: 46px;
+}
+
+
+#kategori_ek1 {
+	top: 85px;
+	left: 289px;
+	width: 82px;
+	height: 30px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 16px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#screenshot_402_removebg_preview_1_ek1 {
+	top: 80px;
+	left: 890px;
+	width: 31px;
+	height: 26px;
+}
+
+
+#screenshot_407_removebg_preview_1_ek1 {
+	top: 985px;
+	left: 654px;
+	width: 132px;
+	height: 61px;
+}
+
+
+#screenshot_408_removebg_preview_1_ek1 {
+	top: 65px;
+	left: 1144px;
+	width: 88px;
+	height: 59px;
+}
+
+
+#rectangle_4 {
+	top: 303px;
+	left: 133px;
+	width: 459px;
+	height: 488px;
+}
+
+
+#rectangle_5 {
+	top: 825px;
+	left: 115px;
+	width: 99px;
+	height: 99px;
+}
+
+
+#rectangle_6 {
+	top: 825px;
+	left: 252px;
+	width: 99px;
+	height: 99px;
+}
+
+
+#rectangle_7 {
+	top: 825px;
+	left: 391px;
+	width: 99px;
+	height: 99px;
+}
+
+
+#rectangle_8 {
+	top: 825px;
+	left: 528px;
+	width: 99px;
+	height: 99px;
+}
+
+
+#lampu_philips_essential_5w_8w_11w_14w_18w_23w_watt_putih_cool_daylight___5_watt {
+	top: 299px;
+	left: 668px;
+	width: 415px;
+	height: 142px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 24px;
+	font-weight: bold;
+	text-align: left;
+	color:#000000;
+}
+
+
+#line_1 {
+	top: 522px;
+	left: 662px;
+	width: 48px;
+	height: 1px;
+	background:#000000;
+}
+
+
+#image_10 {
+	top: 396px;
+	left: 1063px;
+	width: 341px;
+	height: 395px;
+}
+
+
+#rectangle_17 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 51px;
+	background:rgba(3,172,14,1);
+}
+
+
+#rectangle_23 {
+	top: 622px;
+	left: 1083px;
+	width: 307px;
+	height: 42px;
+	-ms-border-radius: 10px;
+	-o-border-radius: 10px;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	border-radius: 10px;
+	background:rgba(3,172,14,1);
+}
+
+
+#_rectangle_24 {
+	top: 678px;
+	left: 1081px;
+	width: 307px;
+	height: 51px;
+	-ms-border-radius: 10px;
+	-o-border-radius: 10px;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	border-radius: 10px;
+	background:rgba(3,172,14,1);
+}
+
+
+#beli_langsung {
+	top: 689px;
+	left: 1154px;
+	width: 195px;
+	height: 46px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 24px;
+	font-weight: bold;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+
+#terjual_6_rb__bintang_5__1_810_rating_ {
+	top: 411px;
+	left: 668px;
+	width: 294px;
+	height: 49px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 16px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#rp_29_000 {
+	top: 435px;
+	left: 668px;
+	width: 229px;
+	height: 69px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 36px;
+	font-weight: bold;
+	text-align: left;
+	color:#000000;
+}
+
+
+#detail {
+	top: 519px;
+	left: 663px;
+	width: 66px;
+	height: 30px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 16px;
+	font-weight: bold;
+	text-align: left;
+	color:#000000;
+}
+
+
+#kondisi__baru_berat_satuan__70___120_g_kategori__bohlam_etalase__semua_etalase_silahkan_pilih_varian_watt_packing_free_bubble_wrap_dan_dus_kelebihan_lampu_philips_essential_____kualitas_terpercaya_untuk_kinerja_yang_terbaik___hemat_energi_80__dibandingkan_lampu_pijar___umur_lampu_yang_tahan_lama___6x_lebih_lama_dibandingkan_dengan_lampu_pijar___dapat_beroperasi_pada_tegangan_naik_turun_antara_70_230v___pilihan_terang___cool_daylight__putih____untuk_pilihan_harap_tanyakan_stok__dan_tulis_di_note___garansi_resmi_philips {
+	top: 545px;
+	left: 662px;
+	width: 405.5px;
+	height: 265.5px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 13px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#___keranjang {
+	top: 628px;
+	left: 1147px;
+	width: 202px;
+	height: 46px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 24px;
+	font-weight: bold;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+#page_desktop___3_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 1057px;
+}
+
+#_bg__desktop___3_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 1057px;
+	background:rgba(255,255,255,1);
+}
+
+
+#rectangle_11 {
+	top: 186px;
+	left: 60px;
+	width: 828px;
+	height: 412px;
+	-ms-border-radius: 25px;
+	-o-border-radius: 25px;
+	-moz-border-radius: 25px;
+	-webkit-border-radius: 25px;
+	border-radius: 25px;
+	-ms-box-shadow:2px 4px 4px 1px rgba(0,0,0,0.25);
+	-o-box-shadow:2px 4px 4px 1px rgba(0,0,0,0.25);
+	-webkit-box-shadow:2px 4px 4px 1px rgba(0,0,0,0.25);
+	-moz-box-shadow:2px 4px 4px 1px rgba(0,0,0,0.25);
+	box-shadow:2px 4px 4px 1px rgba(0,0,0,0.25);
+	background:rgba(255,255,255,1);
+}
+
+
+#rectangle_2_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 168px;
+	-ms-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	-o-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	-webkit-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	-moz-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	background:rgba(255,255,255,1);
+}
+
+
+#filoshop_ek2 {
+	top: 70px;
+	left: 47px;
+	width: 250px;
+	height: 77px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 40px;
+	font-style: italic;
+	text-align: left;
+	color:#03AC0E;
+}
+
+
+#rectangle_1_ek2 {
+	top: 69px;
+	left: 363px;
+	width: 586px;
+	height: 52px;
+	-ms-border-radius: 30px;
+	-o-border-radius: 30px;
+	-moz-border-radius: 30px;
+	-webkit-border-radius: 30px;
+	border-radius: 30px;
+	border: 1px solid #000000;
+	background:rgba(255,255,255,1);
+}
+
+
+#search_product_ek2 {
+	top: 86px;
+	left: 384px;
+	width: 102px;
+	height: 23px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 12px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#rectangle_3_ek2 {
+	top: 68px;
+	left: 865px;
+	width: 82px;
+	height: 50px;
+	-ms-border-radius: 30px;
+	-o-border-radius: 30px;
+	-moz-border-radius: 30px;
+	-webkit-border-radius: 30px;
+	border-radius: 30px;
+	background:rgba(217,217,217,1);
+}
+
+
+#screenshot_399_removebg_preview_1_ek2 {
+	top: 73px;
+	left: 1045px;
+	width: 37px;
+	height: 41px;
+}
+
+
+#screenshot_400_removebg_preview_1_ek2 {
+	top: 74px;
+	left: 1101px;
+	width: 49px;
+	height: 39px;
+}
+
+
+#ellipse_1_ek2 {
+	top: 63px;
+	left: 1249px;
+	width: 60px;
+	height: 60px;
+}
+
+
+#gilang_rafli_ek2 {
+	top: 84px;
+	left: 1317px;
+	width: 104px;
+	height: 30px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 16px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#screenshot_398_removebg_preview_1_ek2 {
+	top: 70px;
+	left: 973px;
+	width: 63px;
+	height: 46px;
+}
+
+
+#kategori_ek2 {
+	top: 85px;
+	left: 289px;
+	width: 82px;
+	height: 30px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 16px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#screenshot_402_removebg_preview_1_ek2 {
+	top: 80px;
+	left: 890px;
+	width: 31px;
+	height: 26px;
+}
+
+
+#screenshot_407_removebg_preview_1_ek2 {
+	top: 996px;
+	left: 654px;
+	width: 132px;
+	height: 61px;
+}
+
+
+#screenshot_408_removebg_preview_1_ek2 {
+	top: 65px;
+	left: 1144px;
+	width: 88px;
+	height: 59px;
+}
+
+
+#screenshot_414_removebg_preview_1 {
+	top: 239px;
+	left: 98px;
+	width: 50px;
+	height: 58px;
+}
+
+
+#philips_jakarta_store {
+	top: 268px;
+	left: 160px;
+	width: 326px;
+	height: 42px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 24px;
+	font-weight: bold;
+	text-align: left;
+	color:#000000;
+}
+
+
+#jakarta_selatan {
+	top: 315px;
+	left: 98px;
+	width: 193px;
+	height: 46px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 24px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#rectangle_9 {
+	top: 375px;
+	left: 98px;
+	width: 182px;
+	height: 194px;
+}
+
+
+#rectangle_10 {
+	top: 514px;
+	left: 319px;
+	width: 201px;
+	height: 57px;
+	border: 1px solid #000000;
+	background:rgba(255,255,255,1);
+}
+
+
+#___1__ {
+	top: 528px;
+	left: 361px;
+	width: 140px;
+	height: 42px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 20px;
+	font-weight: bold;
+	text-align: left;
+	color:#000000;
+}
+
+
+#rp_29_000_ek1 {
+	top: 466px;
+	left: 319px;
+	width: 158px;
+	height: 47px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 24px;
+	font-weight: bold;
+	text-align: left;
+	color:#000000;
+}
+
+
+#pengiriman_dan_pembayaran {
+	top: 616px;
+	left: 98px;
+	width: 420px;
+	height: 54px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 28px;
+	font-weight: bold;
+	text-align: left;
+	color:#000000;
+}
+
+
+#screenshot_410_1 {
+	top: 672px;
+	left: 60px;
+	width: 828px;
+	height: 313px;
+}
+
+
+#screenshot_411_1 {
+	top: 239px;
+	left: 914px;
+	width: 486px;
+	height: 681px;
+}
+
+
+#rectangle_18 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 51px;
+	background:rgba(3,172,14,1);
+}
+
+
+#rectangle_21 {
+	top: 261px;
+	left: 937px;
+	width: 438px;
+	height: 68px;
+	-ms-border-radius: 5px;
+	-o-border-radius: 5px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	border-radius: 5px;
+	-ms-box-shadow:2px 3px 4px 1px rgba(0,0,0,0.25);
+	-o-box-shadow:2px 3px 4px 1px rgba(0,0,0,0.25);
+	-webkit-box-shadow:2px 3px 4px 1px rgba(0,0,0,0.25);
+	-moz-box-shadow:2px 3px 4px 1px rgba(0,0,0,0.25);
+	box-shadow:2px 3px 4px 1px rgba(0,0,0,0.25);
+	background:rgba(255,255,255,1);
+}
+
+
+#makin_hemat_pakai_promo {
+	top: 277px;
+	left: 1007px;
+	width: 331px;
+	height: 46px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 24px;
+	font-weight: bold;
+	text-align: left;
+	color:#000000;
+}
+
+
+#_rectangle_22 {
+	top: 843px;
+	left: 937px;
+	width: 438px;
+	height: 61px;
+	-ms-border-radius: 10px;
+	-o-border-radius: 10px;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	border-radius: 10px;
+	background:rgba(3,172,14,1);
+}
+
+
+#bayar {
+	top: 859px;
+	left: 1117px;
+	width: 111px;
+	height: 46px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 24px;
+	font-weight: bold;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+
+#barang_yang_dibeli__ {
+	top: 188px;
+	left: 72px;
+	width: 299px;
+	height: 54px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 28px;
+	font-weight: bold;
+	text-align: left;
+	color:#000000;
+}
+
+
+#lampu_philips_essential_5w_8w_11w_14w_18w_23w_watt_putih_cool_daylight___5_watt_ek1 {
+	top: 389px;
+	left: 313px;
+	width: 1087px;
+	height: 46px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 20px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#_70gr5_watt {
+	top: 442px;
+	left: 313px;
+	width: 137.5px;
+	height: 38.5px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 15px;
+	text-align: left;
+	color:#000000;
+}
+
+#page_desktop___4_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 1057px;
+}
+
+#_bg__desktop___4_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 1057px;
+	background:rgba(255,255,255,1);
+}
+
+
+#rectangle_2_ek3 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 168px;
+	-ms-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	-o-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	-webkit-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	-moz-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	background:rgba(255,255,255,1);
+}
+
+
+#filoshop_ek3 {
+	top: 70px;
+	left: 47px;
+	width: 250px;
+	height: 77px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 40px;
+	font-style: italic;
+	text-align: left;
+	color:#03AC0E;
+}
+
+
+#rectangle_1_ek3 {
+	top: 69px;
+	left: 363px;
+	width: 586px;
+	height: 52px;
+	-ms-border-radius: 30px;
+	-o-border-radius: 30px;
+	-moz-border-radius: 30px;
+	-webkit-border-radius: 30px;
+	border-radius: 30px;
+	border: 1px solid #000000;
+	background:rgba(255,255,255,1);
+}
+
+
+#search_product_ek3 {
+	top: 86px;
+	left: 384px;
+	width: 102px;
+	height: 23px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 12px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#rectangle_3_ek3 {
+	top: 68px;
+	left: 865px;
+	width: 82px;
+	height: 50px;
+	-ms-border-radius: 30px;
+	-o-border-radius: 30px;
+	-moz-border-radius: 30px;
+	-webkit-border-radius: 30px;
+	border-radius: 30px;
+	background:rgba(217,217,217,1);
+}
+
+
+#screenshot_399_removebg_preview_1_ek3 {
+	top: 73px;
+	left: 1045px;
+	width: 37px;
+	height: 41px;
+}
+
+
+#screenshot_400_removebg_preview_1_ek3 {
+	top: 74px;
+	left: 1101px;
+	width: 49px;
+	height: 39px;
+}
+
+
+#ellipse_1_ek3 {
+	top: 63px;
+	left: 1249px;
+	width: 60px;
+	height: 60px;
+}
+
+
+#gilang_rafli_ek3 {
+	top: 84px;
+	left: 1317px;
+	width: 104px;
+	height: 30px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 16px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#screenshot_398_removebg_preview_1_ek3 {
+	top: 70px;
+	left: 973px;
+	width: 63px;
+	height: 46px;
+}
+
+
+#kategori_ek3 {
+	top: 85px;
+	left: 289px;
+	width: 82px;
+	height: 30px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 16px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#screenshot_402_removebg_preview_1_ek3 {
+	top: 80px;
+	left: 890px;
+	width: 31px;
+	height: 26px;
+}
+
+
+#screenshot_407_removebg_preview_1_ek3 {
+	top: 996px;
+	left: 654px;
+	width: 132px;
+	height: 61px;
+}
+
+
+#screenshot_408_removebg_preview_1_ek3 {
+	top: 65px;
+	left: 1144px;
+	width: 88px;
+	height: 59px;
+}
+
+
+#rectangle_12 {
+	top: 180px;
+	left: 0px;
+	width: 1440px;
+	height: 60px;
+	-ms-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	-o-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	-webkit-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	-moz-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	background:rgba(217,217,217,1);
+}
+
+
+#di_baayar_dengan_bca_virtual_acount {
+	top: 195px;
+	left: 456px;
+	width: 464.5px;
+	height: 47.5px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 25px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#arrow_1 {
+	top: 209px;
+	left: 384px;
+	width: 39.01px;
+	height: 0px;
+}
+
+
+#rectangle_13 {
+	top: 240px;
+	left: 237px;
+	width: 951px;
+	height: 73px;
+	-ms-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	-o-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	-webkit-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	-moz-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	background:rgba(247,247,247,1);
+}
+
+
+#total_pembayaran {
+	top: 266px;
+	left: 258px;
+	width: 242.5px;
+	height: 47.5px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 25px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#rectangle_14 {
+	top: 322px;
+	left: 237px;
+	width: 951px;
+	height: 96px;
+	-ms-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	-o-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	-webkit-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	-moz-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	background:rgba(247,247,247,1);
+}
+
+
+#metode_pembayaran {
+	top: 340px;
+	left: 258px;
+	width: 274.5px;
+	height: 47.5px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 25px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#screenshot_428_removebg_preview_1 {
+	top: 370px;
+	left: 258px;
+	width: 63px;
+	height: 36px;
+}
+
+
+#bca_vitual_account {
+	top: 379px;
+	left: 332px;
+	width: 157.5px;
+	height: 28.5px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 15px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#rp__54_900 {
+	top: 272px;
+	left: 1037px;
+	width: 138px;
+	height: 38px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 20px;
+	font-weight: bold;
+	text-align: left;
+	color:#09E439;
+}
+
+
+#_rectangle_15 {
+	top: 925px;
+	left: 244px;
+	width: 951px;
+	height: 71px;
+	background:rgba(3,172,14,1);
+}
+
+
+#bayar_ek1 {
+	top: 946px;
+	left: 685px;
+	width: 100.5px;
+	height: 47.5px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 25px;
+	font-weight: bold;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+
+#rectangle_19 {
+	top: -3px;
+	left: 0px;
+	width: 1440px;
+	height: 51px;
+	background:rgba(3,172,14,1);
+}
+
+#page_desktop___5_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 1057px;
+}
+
+#_bg__desktop___5_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 1057px;
+	background:rgba(255,255,255,1);
+}
+
+
+#rectangle_2_ek4 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 168px;
+	-ms-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	-o-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	-webkit-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	-moz-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	background:rgba(255,255,255,1);
+}
+
+
+#filoshop_ek4 {
+	top: 70px;
+	left: 47px;
+	width: 250px;
+	height: 77px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 40px;
+	font-style: italic;
+	text-align: left;
+	color:#03AC0E;
+}
+
+
+#rectangle_1_ek4 {
+	top: 69px;
+	left: 363px;
+	width: 586px;
+	height: 52px;
+	-ms-border-radius: 30px;
+	-o-border-radius: 30px;
+	-moz-border-radius: 30px;
+	-webkit-border-radius: 30px;
+	border-radius: 30px;
+	border: 1px solid #000000;
+	background:rgba(255,255,255,1);
+}
+
+
+#search_product_ek4 {
+	top: 86px;
+	left: 384px;
+	width: 102px;
+	height: 23px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 12px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#rectangle_3_ek4 {
+	top: 68px;
+	left: 865px;
+	width: 82px;
+	height: 50px;
+	-ms-border-radius: 30px;
+	-o-border-radius: 30px;
+	-moz-border-radius: 30px;
+	-webkit-border-radius: 30px;
+	border-radius: 30px;
+	background:rgba(217,217,217,1);
+}
+
+
+#screenshot_399_removebg_preview_1_ek4 {
+	top: 73px;
+	left: 1045px;
+	width: 37px;
+	height: 41px;
+}
+
+
+#screenshot_400_removebg_preview_1_ek4 {
+	top: 74px;
+	left: 1101px;
+	width: 49px;
+	height: 39px;
+}
+
+
+#ellipse_1_ek4 {
+	top: 63px;
+	left: 1249px;
+	width: 60px;
+	height: 60px;
+}
+
+
+#gilang_rafli_ek4 {
+	top: 84px;
+	left: 1317px;
+	width: 104px;
+	height: 30px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 16px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#screenshot_398_removebg_preview_1_ek4 {
+	top: 70px;
+	left: 973px;
+	width: 63px;
+	height: 46px;
+}
+
+
+#kategori_ek4 {
+	top: 85px;
+	left: 289px;
+	width: 82px;
+	height: 30px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 16px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#screenshot_402_removebg_preview_1_ek4 {
+	top: 80px;
+	left: 890px;
+	width: 31px;
+	height: 26px;
+}
+
+
+#screenshot_407_removebg_preview_1_ek4 {
+	top: 996px;
+	left: 654px;
+	width: 132px;
+	height: 61px;
+}
+
+
+#screenshot_408_removebg_preview_1_ek4 {
+	top: 65px;
+	left: 1144px;
+	width: 88px;
+	height: 59px;
+}
+
+
+#screenshot_429_removebg_preview_1 {
+	top: 197px;
+	left: 382px;
+	width: 676px;
+	height: 664px;
+}
+
+
+#rectangle_20 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 51px;
+	background:rgba(3,172,14,1);
+}
+
+
+
+/* Add your custom CSS here */
